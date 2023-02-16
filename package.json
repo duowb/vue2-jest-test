@@ -1,6 +1,7 @@
 {
   "name": "vue2-jest-test",
   "version": "0.1.0",
+  "description": "单元测试示例项目",
   "private": true,
   "scripts": {
     "serve": "vue-cli-service serve",

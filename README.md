@@ -1,29 +1,8 @@
-# test
+# vue2-jest-test
 
-## Project setup
-```
-yarn install
-```
+使用 [`jest`](https://jestjs.io)和[`test-utils`](https://v1.test-utils.vuejs.org/zh/)对`vue`+`element-ui`项目进行单元测试
 
-### Compiles and hot-reloads for development
-```
-yarn serve
-```
 
-### Compiles and minifies for production
-```
-yarn build
-```
-
-### Run your unit tests
-```
+``` sh
 yarn test:unit
 ```
-
-### Lints and fixes files
-```
-yarn lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
